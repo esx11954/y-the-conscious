@@ -1,9 +1,12 @@
 ---
 title: Reddit AI関連副業・トレンドまとめ
 description: r/sidehustleにおけるAI関連の議論と成功事例（30選）
+sidebar_position: 6
 ---
 
 # Reddit AI関連副業・トレンドまとめ (30選)
+**最終更新日: 2026-03-13**
+
 
 redditのr/sidehustleに投稿された最新のAI（人工知能）に関連する副業、議論、ツール、成功事例を30件まとめて紹介します。
 

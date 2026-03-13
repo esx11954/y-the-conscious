@@ -1,9 +1,12 @@
 ---
 title: ニッチ業界におけるAI活用の悩み・需要調査 (30選)
 description: 不動産、法務、教育、小規模ビジネスにおける「不満」と「AIによる解決策」
+sidebar_position: 10
 ---
 
 # ニッチ業界におけるAI活用の悩み・需要調査 (30選)
+**最終更新日: 2026-03-13**
+
 
 Redditの専門家コミュニティ（RealEstate, Lawyertalk, teachers, smallbusiness）から抽出した、現場で切実な「悩み」と、AIによる解決の可能性をまとめました。
 

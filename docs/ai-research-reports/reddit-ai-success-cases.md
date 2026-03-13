@@ -1,9 +1,12 @@
 ---
 title: Reddit AI活用成功事例 30選
 description: r/sidehustleから抽出した、議論やノイズを除いたAI活用の具体的事例
+sidebar_position: 7
 ---
 
 # Reddit AI活用成功事例 30選
+**最終更新日: 2026-03-13**
+
 
 r/sidehustleに投稿された成功体験（Success Story）の中から、**AIを具体的に活用して成果を上げた事例のみ**を30件厳選しました。
 議論や一般的な質問などのノイズを排除し、実用的なアイデアと実行結果に焦点を当てています。
