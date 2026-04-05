@@ -3,14 +3,14 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Yamada The Conscious',
+  title: 'Y The Conscious',
   tagline: 'Built with Gemini CLI and Docusaurus',
   favicon: 'img/favicon.ico',
 
   url: 'https://esx11954.github.io',
-  baseUrl: '/yamada-the-conscious/',
+  baseUrl: '/y-the-conscious/',
   organizationName: 'esx11954',
-  projectName: 'yamada-the-conscious',
+  projectName: 'y-the-conscious',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -39,7 +39,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Yamada The Conscious',
+      title: 'Y The Conscious',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -56,7 +56,7 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Yamada The Conscious. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Y The Conscious. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
